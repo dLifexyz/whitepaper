@@ -67,3 +67,11 @@ As headlines continue to expose misuse of genetic data by centralized companies,
 
 * 🌐 Maturing Web3 Ecosystem and DeSci Movement
 Web3 is no longer just about speculation. The DeSci movement is bringing researchers, builders, and funders together to create decentralized alternatives to traditional scientific institutions. At the same time, there is a strong and growing interest in real-world assets on-chain — including health data, longevity metrics, and biological uniqueness.
+
+## 6. Products and Services
+
+## 7. Business Models
+
+## 8. GTM
+
+## 9. Roadmap
