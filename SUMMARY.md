@@ -2,7 +2,7 @@
 
 * [dLife Whitepaper](dlife-whitepaper/README.md)
   * [Challenges in Life Science](dlife-whitepaper/key-challenges-in-life-science-today.md)
-  * [Challenges in DeSci and Longevity](dlife-whitepaper/key-challenges-in-web3-for-science-and-longevity.md)
+  * [Key Challenges in Web3 for Science and Longevity](dlife-whitepaper/key-challenges-in-web3-for-science-and-longevity.md)
   * [dLife: connect life science to Web3](dlife-whitepaper/dlife-a-decentralized-human-layer-to-connect-life-science-to-web3.md)
   * [How dLife works](dlife-whitepaper/how-dlife-works.md)
   * [Products and Services](dlife-whitepaper/products-and-services.md)

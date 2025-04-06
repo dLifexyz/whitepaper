@@ -1,4 +1,5 @@
 # Key Challenges in Web3 for Science and Longevity
+
 While Web3 technologies promise decentralization, ownership, and incentive innovation, the current ecosystem faces fundamental limitations that hinder their application to real-world scientific and health problems.
 
 * Scarcity of Meaningful, Real-World Data On-Chain
