@@ -1,4 +1,6 @@
+
 # Key Challenges in Life Sciences Today
+
 The life sciences sector is undergoing rapid technological advancement, yet it faces structural challenges that limit its full potential — especially in the context of multi-omics data and precision health.
 
 * Low Public Participation in Genomic and Multi-Omics Testing
