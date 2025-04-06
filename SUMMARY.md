@@ -1,6 +1,14 @@
 # Table of contents
 
-* [dLife Whitepaper](README.md)
+* [dLife Whitepaper](dlife-whitepaper/README.md)
+  * [Challenges in Life Science](dlife-whitepaper/key-challenges-in-life-science-today.md)
+  * [Challenges in DeSci and Longevity](dlife-whitepaper/key-challenges-in-web3-for-science-and-longevity.md)
+  * [dLife: connect life science to Web3](dlife-whitepaper/dlife-a-decentralized-human-layer-to-connect-life-science-to-web3.md)
+  * [How dLife works](dlife-whitepaper/how-dlife-works.md)
+  * [Products and Services](dlife-whitepaper/products-and-services.md)
+  * [Business Models](dlife-whitepaper/business-models.md)
+  * [Go-To-Market](dlife-whitepaper/go-to-market.md)
+  * [Roadmap](dlife-whitepaper/roadmap.md)
 * [lifePass DID](lifepass-did/README.md)
   * [What is lifePass?](lifepass-did/what-is-lifepass.md)
   * [How to mint my lifePass?](lifepass-did/how-to-mint-my-lifepass.md)
