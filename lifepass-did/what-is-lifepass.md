@@ -6,7 +6,24 @@
 
 <figure><img src="../.gitbook/assets/demo_profile.png" alt=""><figcaption><p>A demo lifePass profile</p></figcaption></figure>
 
+
+
 ## Ancestry
+
+The default ancestry composition analysis provided by lifePass includes 13 typical populations:
+* East Asian
+* Siberian
+* Amerindian
+* South Asian
+* North European
+* Artic
+* Palaeo African
+* West African
+* Southwest Asian
+* Mediterranean
+* Australasian
+* West Asian
+* East African
 
 ## Genetic Attributes
 

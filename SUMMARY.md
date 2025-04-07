@@ -1,7 +1,7 @@
 # Table of contents
 * [dLife](README.md)
 * [dLife Whitepaper](dlife-whitepaper/README.md)
-  * [Challenges in Life Science](dlife-whitepaper/key-challenges-in-life-science-today.md)
+  * [Key Challenges in Life Science](dlife-whitepaper/key-challenges-in-life-science-today.md)
   * [Key Challenges in Web3 for Science and Longevity](dlife-whitepaper/key-challenges-in-web3-for-science-and-longevity.md)
   * [dLife: connect life science to Web3](dlife-whitepaper/dlife-a-decentralized-human-layer-to-connect-life-science-to-web3.md)
   * [How dLife works](dlife-whitepaper/how-dlife-works.md)
@@ -15,3 +15,5 @@
   * [dApp Developers](lifepass-did/dAPP-developers.md)
 * [dLife SDKs and APIs](sdk-api/README.md)
 * [dLife Personal Omics Tests](omics-test/README.md)
+  * [dLife Genome Test](omics-test/dlife-genome-test.md)
+  * [dlife Epigenome Ageing Test](omics-test/dlife-epigenome-test.md)
