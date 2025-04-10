@@ -14,6 +14,6 @@ While core functionality can work with third-party tests, dLife-branded omics te
 
 dLife enables a peer-to-peer marketplace where users can choose to license or contribute their encrypted omics data to research DAOs, longevity protocols, or pharma partners — with dLife earning protocol fees on data transactions.
 
-*🤝 Partnership Integrations & Licensing
+* 🤝 Partnership Integrations & Licensing
 
 dLife offers SDK/API access, integration packages, and white-label solutions for biotech companies, health apps, DeSci platforms, and research institutions — generating revenue through licensing and usage-based fees.

@@ -9,6 +9,8 @@
   * [Business Models](dlife-whitepaper/business-models.md)
   * [Go-To-Market](dlife-whitepaper/go-to-market.md)
   * [Roadmap](dlife-whitepaper/roadmap.md)
+  * [Contributors](dlife-whitepaper/contributors.md)
+  * [Partners](dlife-whitepaper/partners.md)
 * [lifePass DID](lifepass-did/README.md)
   * [What is lifePass?](lifepass-did/what-is-lifepass.md)
   * [How to mint my lifePass?](lifepass-did/how-to-mint-my-lifepass.md)
