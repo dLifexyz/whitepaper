@@ -6,12 +6,11 @@
 
 <figure><img src="../.gitbook/assets/demo_profile.png" alt=""><figcaption><p>A demo lifePass profile</p></figcaption></figure>
 
-Key Features of lifePass:
+Key features of lifePass:
 
+* The most reliable decentralized Proof-of-Human infrastructure
 * Self-custody of personal genomic data enabled by blockchain and encryption technologies
-
 * Genomic data infrastructure based on Zero-Knowledge (ZK) technology, supporting applications and research while protecting user privacy and data security
-
 * Decentralized infrastructure for AI-powered analysis and interpretation of personal genomic data
 
 ## Ancestry
@@ -67,7 +66,7 @@ Example: Simvastatin
 
 ## Contributions
 
-Initial idea was proposed by Wayne from Axis8 Venture.
+Initial idea was proposed by Wayne from Axia8 Venture.
 
 Product is designed by David, Weibo and Walker from dLife, and Void, who is the leader of a Web3 development team.
 
