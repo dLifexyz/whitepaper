@@ -2,6 +2,8 @@
 
 ## Get Started
 
+<figure><img src="../imgs/lifepass-homepage.png" alt=""><figcaption><p>lifePass Homepage</p></figcaption></figure>
+
 1. Connect your wallet to lifePass
 2. Pay the gas fee to mint your NFT
 3. Upload your genome data in TXT format
