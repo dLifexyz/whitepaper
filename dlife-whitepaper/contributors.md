@@ -1,19 +1,19 @@
-## Core Contributors
+# Contributors
 
-* Walker
-* David
+### Core Contributors
+
+* Walker Chen \[[linktree](https://linktr.ee/walkercsx)]
+* David Dai \[[X](https://x.com/0xSkyold)]
 * Void
-* Aspire
-* Tank
+* Aspire \[[linkedin](https://www.linkedin.com/in/aspire-tsao-63a510a7/)]
+* Tank \[[X](https://x.com/tankxu)]
 * Weibo
 * Senwei
 
-## Advisors
+### Advisors
 
-* Rex
-* Tony from NGC Ventures
-* Wayne from Axia8 Ventures
-* Zoe from Axia8 Ventures
-* James from Panga Capital
-* Gregor from Panga Capital
-* Dr. Yang from MGI
+* Rex \[[X](https://x.com/RexWang42)]
+* Tony Gu from NGC Ventures \[[Homepage](https://ngc.fund/)]
+* Wayne Lin from Axia8 Ventures \[[X](https://x.com/wayne_axia8)] \[[Homepage](https://www.axia8.com/)]
+* Zoe Peng from Axia8 Ventures \[[X](https://x.com/ZhuowenPeng)] \[[Homepage](https://www.axia8.com/)]
+* Prof. Ruibang Luo from HKU \[[Homepage](https://www.bio8.cs.hku.hk/)]
