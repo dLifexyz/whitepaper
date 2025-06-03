@@ -19,5 +19,5 @@
 * [dLife SDKs and APIs](sdk-api/README.md)
 * [dLife Personal Omics Tests](omics-test/README.md)
   * [dLife Genome Test](omics-test/dlife-genome-test.md)
-  * [dlife Epigenome Ageing Test](omics-test/dlife-epigenome-test.md)
+  * [dLife Epigenome Ageing Test](omics-test/dlife-epigenome-test.md)
 * [Darwin Protocol](darwin-protocol.md)
