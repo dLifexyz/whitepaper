@@ -7,8 +7,8 @@
 * Void
 * Aspire \[[linkedin](https://www.linkedin.com/in/aspire-tsao-63a510a7/)]
 * Tank \[[X](https://x.com/tankxu)]
-* Weibo
-* Senwei
+* Weibo Li
+* Senwei Tang
 
 ### Advisors
 

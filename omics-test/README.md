@@ -7,3 +7,14 @@ Currently, dLife and its partners provide [personal genome](dlife-genome-test.md
 dLife offers a comprehensive solution to empower DeSci and Longevity projects by integrating personal omics testing into their products and services. With our globally distributed life science infrastructure, we support every step of the process — from supply chain management and medical device regulations, to sequencing services, bioinformatics analysis, and on-chain protocols that securely link data and test results to your customers’ wallets.
 
 Please contact [market@dlife.xyz](mailto:market@dlife.xyz) for details.
+
+Collaborating labs:
+
+* WeGene Hong Kong, Hong Kong SAR, China
+* ThaiOmics, EEC, Thailand
+* NGI, Jakarta, Indonesia
+* NeoScience, Dubai, UAE
+
+Partners:
+
+* CUDIS
