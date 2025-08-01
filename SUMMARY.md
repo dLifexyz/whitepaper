@@ -20,4 +20,5 @@
 * [dLife Personal Omics Tests](omics-test/README.md)
   * [dLife Genome Test](omics-test/dlife-genome-test.md)
   * [dLife Epigenome Ageing Test](omics-test/dlife-epigenome-test.md)
+* [Bloodline Protocol](bloodline-protocol.md)
 * [Darwin Protocol](darwin-protocol.md)
