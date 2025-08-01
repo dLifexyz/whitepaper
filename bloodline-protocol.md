@@ -1,7 +1,9 @@
-# Bloodline Protocol
 ---
 description: A Genome-based Digital Assets Distributing Protocol Powered by LifePass
 ---
+
+# Bloodline Protocol
+
 A Genome-based Digital Assets Distributing Protocol Powered by LifePass
 
 ## Overview
