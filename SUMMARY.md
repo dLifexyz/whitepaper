@@ -14,7 +14,6 @@
   * [Partners](dlife-whitepaper/partners.md)
 * [lifePass DID](lifepass-did/README.md)
   * [What is lifePass?](lifepass-did/what-is-lifepass.md)
-  * [How to mint my lifePass?](lifepass-did/how-to-mint-my-lifepass.md)
   * [lifePass User Tutorial](lifepass-did/tutorial/README.md)
     * [Tutorial for 23andMe](lifepass-did/tutorial/tutorial-for-23andme-english.md)
     * [Tutorial for WeGene](lifepass-did/tutorial/tutorial-for-wegene-english.md)
