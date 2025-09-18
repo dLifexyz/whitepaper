@@ -36,10 +36,10 @@
 
 ![Download Raw Data Button](imgs/tutorials/23andme/23andme-step-09.jpg)
 
-                                                                                    **Download Raw Data**
+*Click "Download Raw Data" button*
 
-![Restore Download](imgs/tutorials/23andme/23andme-step-10.jpg)
+![Restore Download Option](imgs/tutorials/23andme/23andme-step-10.jpg)
 
-                                                                               **Restore Download**
+*If download doesn't start, click "Restore Download"*
 
 9. Extract the **.zip** file you downloaded, and the extracted file is your .txt gene metadata. After receiving the .txt file, you can refer to the [instructions](https://www.notion.so/LifePass-Claim-Tutorial-WeGene-24d2450ef1068069aee5e0957c1f991f?pvs=21) to mint your LifePass.
