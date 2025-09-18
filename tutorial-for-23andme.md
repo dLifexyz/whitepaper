@@ -42,4 +42,4 @@
 
                                                                                **Restore Download**
 
-1. Extract the **.zip** file you downloaded, and the extracted file is your .txt gene metadata. After receiving the .txt file, you can refer to the [instructions](https://www.notion.so/LifePass-Claim-Tutorial-WeGene-24d2450ef1068069aee5e0957c1f991f?pvs=21) to mint your LifePass.
+9. Extract the **.zip** file you downloaded, and the extracted file is your .txt gene metadata. After receiving the .txt file, you can refer to the [instructions](https://www.notion.so/LifePass-Claim-Tutorial-WeGene-24d2450ef1068069aee5e0957c1f991f?pvs=21) to mint your LifePass.
