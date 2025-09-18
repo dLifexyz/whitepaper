@@ -7,9 +7,7 @@ LifePass is a blockchain-based genetic data NFT that allows users to securely ma
 ## Available Tutorials
 
 * [23andMe English tutorial](tutorial-for-23andme-english.md)
-* [23andMe 中文教程](tutorial-for-23andme-chinese.md)
 * [WeGene English tutorial](tutorial-for-wegene-english.md)
-* [WeGene 中文教程](tutorial-for-wegene-chinese.md)
 
 ## Quick Start
 
