@@ -1,4 +1,4 @@
-# LifePass 申领教程（23andMe）
+# LifePass 铸造教程（23andMe）
 
 > 本教程仅适用于已经在 23andMe 进行过基因检测的用户。
 > 

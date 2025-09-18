@@ -1,4 +1,4 @@
-# LifePass Claim Tutorial (23andMe)
+# LifePass Mint Tutorial (23andMe)
 
 > This tutorial is only for users who have undergone genetic testing on 23andme.
 > 

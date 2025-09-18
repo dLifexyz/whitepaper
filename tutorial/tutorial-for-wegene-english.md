@@ -1,4 +1,4 @@
-# LifePass Claim Tutorial (WeGene)
+# LifePass Mint Tutorial (WeGene)
 
 > This tutorial is only for LifePass claiming. For genetic testing kit and WeGene® genetic testing tutorials, please follow the instructions in the kit you received. You can also visit WeGene®'s official WeChat account, select Service -> Bind Collection Tube from the bottom menu, and follow the guidance.
 > 
