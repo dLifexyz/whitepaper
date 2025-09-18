@@ -33,7 +33,7 @@
 
 ![Download Success](../imgs/tutorials/WeGene/wegene-step-04.png)
 
-5. 在获得您的核心数据文件后，烦请挪步访问 https://pass.dlife.xyz/，随后点击 **Mint LifePass** 进行 LifePass 的申领流程。
+5. 在获得您的核心数据文件后，烦请挪步访问[这里](https://pass.dlife.xyz/)，随后点击 **Mint LifePass** 进行 LifePass 的申领流程。
 
 ![LifePass Website](../imgs/tutorials/WeGene/wegene-step-05.png)
 

@@ -43,7 +43,7 @@
 
 *如果下载没有开始，点击 "Restore Download"*
 
-9. 解压您下载的 **.zip** 文件，解压后的文件就是您的 .txt 基因元数据。在获得您的核心数据文件后，请访问 https://pass.dlife.xyz/， 然后点击 **Mint LifePass** 进行 LifePass 的申领流程。
+9. 解压您下载的 **.zip** 文件，解压后的文件就是您的 .txt 基因元数据。在获得您的核心数据文件后，请访问[这里](https://pass.dlife.xyz/)，然后点击 **Mint LifePass** 进行 LifePass 的申领流程。
 
 ![LifePass Website](../imgs/tutorials/WeGene/wegene-step-05.png)
 

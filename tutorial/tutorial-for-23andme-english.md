@@ -42,7 +42,7 @@
 
 *If download doesn't start, click "Restore Download"*
 
-9. Extract the **.zip** file you downloaded, and the extracted file is your .txt gene metadata. After obtaining your core data file, please visit https://pass.dlife.xyz/, then click **Mint LifePass** to start the LifePass claiming process.
+9. Extract the **.zip** file you downloaded, and the extracted file is your .txt gene metadata. After obtaining your core data file, please visit [here](https://pass.dlife.xyz/), then click **Mint LifePass** to start the LifePass claiming process.
 
 ![LifePass Website](../imgs/tutorials/WeGene/wegene-step-05.png)
 

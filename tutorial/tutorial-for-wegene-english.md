@@ -33,7 +33,7 @@ Then please follow the steps below:
 
 ![Download Success](../imgs/tutorials/WeGene/wegene-step-04.png)
 
-5. After obtaining your core data file, please visit https://pass.dlife.xyz/, then click **Mint LifePass** to start the LifePass claiming process.
+5. After obtaining your core data file, please visit [here](https://pass.dlife.xyz/), then click **Mint LifePass** to start the LifePass claiming process.
 
 ![LifePass Website](../imgs/tutorials/WeGene/wegene-step-05.png)
 
