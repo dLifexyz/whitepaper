@@ -42,29 +42,29 @@
 
 *If download doesn't start, click "Restore Download"*
 
-9. Extract the **.zip** file you downloaded, and the extracted file is your .txt gene metadata. After obtaining your core data file, please visit [here](https://pass.dlife.xyz/), then click **Mint LifePass** to start the LifePass claiming process.
+9. Extract the **.zip** file you downloaded, and the extracted file is your .txt gene metadata. After obtaining your core data file, please visit [here](https://pass.dlife.xyz/), then click **Mint LifePass** to start the LifePass minting process.
 
 ![LifePass Website](../../imgs/tutorials/WeGene/wegene-step-05.png)
 
-10. Currently, LifePass NFT has not been publicly released. Our NFT is temporarily deployed on BNB Testnet, and you need to connect your wallet to claim LifePass.
+10. LifePass NFT is now deployed on **BNB Smart Chain (BSC Mainnet)**. You need to connect your wallet to mint your LifePass.
 
 ![Connect Wallet](../../imgs/tutorials/WeGene/wegene-step-06.png)
 
-11. After logging into your wallet, please ensure you have selected **Binance Smart Chain Testnet**, then click **Open Profile** to enter the claiming page. If you need Testnet tokens, please visit https://www.bnbchain.org/en/testnet-faucet to obtain them.
+11. After connecting your wallet, please ensure you have selected **BNB Smart Chain** network, then click **Mint LifePass** to enter the minting page.
 
 ![Network Selection](../../imgs/tutorials/WeGene/wegene-step-07.png)
 
 ![Open Profile](../../imgs/tutorials/WeGene/wegene-step-08.png)
 
-12. Before claiming, you need to upload your core data. Your data will be encrypted to ensure data security.
+12. Now, you can upload the DNA data you downloaded earlier to mint your first on-chain DID based on **biological** **information**! To experience our ecosystem earlier, you can also mint an incomplete version of LifePass before receiving the core data to explore our product. **Please note that only the complete version of LifePass can enjoy all the benefits.**
 
 ![Upload Data Page](../../imgs/tutorials/WeGene/wegene-step-09.png)
 
-13. Before formally uploading data, please check to agree to our relevant policies and regulations, then select and upload the **.txt file** you downloaded earlier.
+13. Before formally uploading data, please check to agree to our relevant policies and regulations, then select the data provider and upload the **.txt file** you downloaded earlier.
 
 ![File Upload](../../imgs/tutorials/WeGene/wegene-step-10.png)
 
-14. Your core data will then be uploaded, and you can check the upload progress at any time.
+14. Your core data will then be uploaded, it takes 3 minutes normally, we suggest you to stay on the page till the data has been uploaded.
 
 ![Upload Progress](../../imgs/tutorials/WeGene/wegene-step-11.png)
 

@@ -1,9 +1,9 @@
 # LifePass Mint Tutorial (WeGene)
 
-> This tutorial is only for LifePass claiming. For genetic testing kit and WeGene® genetic testing tutorials, please follow the instructions in the kit you received. You can also visit WeGene®'s official WeChat account, select Service -> Bind Collection Tube from the bottom menu, and follow the guidance.
+> This tutorial is only for LifePass minting. For genetic testing kit and WeGene® genetic testing tutorials, please follow the instructions in the kit you received. You can also visit WeGene®'s official WeChat account, select Service -> Bind Collection Tube from the bottom menu, and follow the guidance.
 >
 >
-> *If you have already sent out the collection tube, please wait patiently for WeGene®'s notification regarding the testing status. Once completed, you can claim your LifePass through this tutorial.*
+> *If you have already sent out the collection tube, please wait patiently for WeGene®'s notification regarding the testing status. Once completed, you can mint your LifePass through this tutorial.*
 >
 
 <aside>
@@ -13,19 +13,19 @@ WeGene® only provides core data related services for LifePass. WeGene® is comm
 
 </aside>
 
-Dear users, after receiving notification from WeGene®, please visit WeGene's official website https://www.wegene.com/, log in using the phone number and identity information you submitted when binding the collection tube, and complete your personal information after logging in.
+Dear users, after receiving notification from WeGene®, please visit WeGene's official website https://www.wegene.com/en and log in using the email address you submitted when binding the collection tube.
 
 Then please follow the steps below:
 
-1. Click "**Personal Center**" in the upper right corner of the webpage to enter the following page. Then select "**Core Data Download**".
+1. Click "**Profile**" in the upper right corner of the webpage to enter the following page. Then select "**Download Core Data**".
 
 ![WeGene Personal Center](../../imgs/tutorials/WeGene/wegene-step-01.png)
 
-2. For the security of your personal information, we will verify your information before downloading. Please use an appropriate method for security verification.
+2. For the security of your personal information, we will verify your information before downloading.
 
 ![Security Verification](../../imgs/tutorials/WeGene/wegene-step-02.png)
 
-3. Select your preferred **verification method**, obtain the verification code, then enter the verification code and click **Confirm**. The core genetic data may be large, so you need to wait patiently.
+3. Select your preferred **verification method**, obtain the verification code, then enter the verification code and click **Confirm**. The download will start automatically. The core data may be large, so you need to wait patiently.
 
 ![Verification Code Input](../../imgs/tutorials/WeGene/wegene-step-03.png)
 
@@ -33,29 +33,29 @@ Then please follow the steps below:
 
 ![Download Success](../../imgs/tutorials/WeGene/wegene-step-04.png)
 
-5. After obtaining your core data file, please visit [here](https://pass.dlife.xyz/), then click **Mint LifePass** to start the LifePass claiming process.
+5. After obtaining your core data file, please visit [here](https://pass.dlife.xyz/), then click **Mint LifePass** to start the LifePass minting process.
 
 ![LifePass Website](../../imgs/tutorials/WeGene/wegene-step-05.png)
 
-6. Currently, LifePass NFT has not been publicly released. Our NFT is temporarily deployed on BNB Testnet, and you need to connect your wallet to claim LifePass.
+6. LifePass NFT is now deployed on **BNB Smart Chain (BSC Mainnet)**. You need to connect your wallet to mint your LifePass.
 
 ![Connect Wallet](../../imgs/tutorials/WeGene/wegene-step-06.png)
 
-7. After logging into your wallet, please ensure you have selected **Binance Smart Chain Testnet**, then click **Open Profile** to enter the claiming page. If you need Testnet tokens, please visit https://www.bnbchain.org/en/testnet-faucet to obtain them.
+7. After connecting your wallet, please ensure you have selected **BNB Smart Chain** network, then click **Mint LifePass** to enter the minting page.
 
 ![Network Selection](../../imgs/tutorials/WeGene/wegene-step-07.png)
 
 ![Open Profile](../../imgs/tutorials/WeGene/wegene-step-08.png)
 
-8. Before claiming, you need to upload your core data. Your data will be encrypted to ensure data security.
+8. Now, you can upload the DNA data you downloaded earlier to mint your first on-chain DID based on **biological** **information**! To experience our ecosystem earlier, you can also mint an incomplete version of LifePass before receiving the core data to explore our product. **Please note that only the complete version of LifePass can enjoy all the benefits**.
 
 ![Upload Data Page](../../imgs/tutorials/WeGene/wegene-step-09.png)
 
-9. Before formally uploading data, please check to agree to our relevant policies and regulations, then select and upload the **.txt file** you downloaded earlier.
+9. Before formally uploading data, please check to agree to our relevant policies and regulations, then select the data provider and upload the **.txt file** you downloaded earlier.
 
 ![File Upload](../../imgs/tutorials/WeGene/wegene-step-10.png)
 
-10. Your core data will then be uploaded, and you can check the upload progress at any time.
+10. Your core data will then be uploaded, it takes 3 minutes normally, we suggest you to stay on the page till the data has been uploaded.
 
 ![Upload Progress](../../imgs/tutorials/WeGene/wegene-step-11.png)
 
