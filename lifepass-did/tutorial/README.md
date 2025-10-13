@@ -18,7 +18,7 @@ LifePass is a blockchain-based genetic data NFT that allows users to securely ma
 
 ## Important Notes
 
-* LifePass is currently deployed on **BNB Testnet**
-* You will need testnet tokens to complete transactions
+* LifePass is deployed on **BNB Smart Chain (BSC Mainnet)**
+* You will need BNB tokens to complete the minting transaction
 * Your genetic data is encrypted and processed securely
-* Get testnet tokens: https://www.bnbchain.org/en/testnet-faucet
+* Make sure your wallet is connected to BNB Smart Chain network
