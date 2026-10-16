@@ -16,6 +16,7 @@ Key features of lifePass:
 ## Ancestry
 
 The default ancestry composition analysis provided by lifePass includes 13 typical populations:
+
 * East Asian
 * Siberian
 * Amerindian
@@ -33,11 +34,12 @@ The default ancestry composition analysis provided by lifePass includes 13 typic
 Admixture algorithm is applied to your genome data to conduct the ancestry composition analysis. Results will be returned as labels associated to your LifePass's NFT.
 
 ## Genetic Attributes
+
 Currently, genetic attributes are categorized into four main areas:
 
 ### Health Risk
 
-Genetic predisposition to specific conditions, calculated using Polygenic Risk Scores (PRS).
+Genetic predisposition to specific conditions, calculated using Polygenic Risk Scores (PRS).\
 Example: Depression
 
 ### Genetic Traits
@@ -45,6 +47,7 @@ Example: Depression
 Phenotypic characteristics influenced by genetic variation.
 
 Examples:
+
 * Bitter taste sensitivity
 * Smoking behavior
 * Male sexual orientation tendencies
@@ -52,7 +55,7 @@ Examples:
 
 ### Nutritional Genomics
 
-Insights into how genes affect the body's response to nutrients.
+Insights into how genes affect the body's response to nutrients.\
 Examples:
 
 * Caffeine metabolism
@@ -61,7 +64,7 @@ Examples:
 
 ### Pharmacogenomics (PGx)
 
-How genetic variation affects drug response and metabolism.
+How genetic variation affects drug response and metabolism.\
 Example: Simvastatin
 
 ## Contributions
